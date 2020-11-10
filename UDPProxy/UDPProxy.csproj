@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ModelLib\ModelLib.csproj" />
+    <ProjectReference Include="..\SensorREST\SensorREST.csproj" />
   </ItemGroup>
 
 </Project>
